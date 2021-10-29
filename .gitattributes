@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Mods[[:space:]]u[[:space:]]need filter=lfs diff=lfs merge=lfs -text
+Mods[[:space:]]u[[:space:]]need.zip filter=lfs diff=lfs merge=lfs -text
